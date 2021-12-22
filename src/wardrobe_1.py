@@ -1,4 +1,4 @@
-def wardrobe(sizes, total):
+def wardrobe1(sizes, total):
     results = []
 
     if total == 0:
